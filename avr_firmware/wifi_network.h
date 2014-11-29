@@ -1,2 +1,2 @@
-#define AP_BASE "meili"
-#define AP_PASS "lovelyone"
+#define AP_BASE "apname"
+#define AP_PASS "appass"
